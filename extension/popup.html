@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UI for Easy Cover Letter</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 10px; 
+        }
+        .container {
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            min-width: 300px;
+        }
+        input, button, select{
+            width: calc(100% - 20px);
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 5px;
+            border: 1px solid #ddd;
+            box-sizing: border-box;
+        }
+        .flex-row {
+            display: flex;
+            align-items: center;
+            margin: 10px 0;
+        }
+        .flex-row label {
+            white-space: nowrap;
+            margin-right: 5px;
+        }
+        .flex-row select {
+            width: auto;
+            min-width: 50%; /* Spacing between label and select box */
+        }
+        .file-drop-area {
+            border: 2px dashed #ccc;
+            border-radius: 5px;
+            text-align: center;
+            padding: 20px;
+            margin-top: 10px;
+        }
+        .file-drop-area.highlight {
+            border-color: blue;
+        }
+        input[type="file"] {
+            width: calc(100% - 40px); /* Adjust width to account for padding */
+            margin: 0; /* Remove margin for alignment purposes */
+        }
+        button {
+            width: 100%;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            opacity: 0.8;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="flex-row">
+            <label for="modelSelect">Choose the Service:</label>
+            <select id="modelSelect">
+                <option value="GPT3.5">gpt-3.5-turbo</option>
+                <option value="GPT4.0">gpt-4</option>
+            </select>
+        </div>
+        <div class="file-drop-area">
+            <span>Drop your PDF file here or click to upload</span>
+            <input type="file" id="pdfInput" accept=".pdf">
+        </div>
+        <button onclick="callFunction()">Upload Your Resume</button>
+        <input type="text" id="keyInput" placeholder="Enter your key">
+        <input type="text" id="urlInput" placeholder="Enter job URL">
+        <button onclick="callFunction()">Generate Cover Letter</button>
+    </div>
+    <script>
+        function callFunction() {
+            var key = document.getElementById('keyInput').value;
+            var url = document.getElementById('urlInput').value;
+            var model = document.getElementById('modelSelect').value;
+            // Add your function logic here
+            alert("Key: " + key + "\nURL: " + url + "\nModel: " + model);
+        }
+    </script>
+</body>
+</html>
