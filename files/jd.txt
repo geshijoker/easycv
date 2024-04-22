@@ -1,56 +1,30 @@
 About the job
-We're Celonis, the global leader in Process Mining technology and one of the world's fastest-growing SaaS firms. We believe there is a massive opportunity to unlock productivity by placing data and intelligence at the core of business processes - and for that, we need you to join us.
+XPeng Motors is one of China’s leading smart electric vehicle (“EV”) companies. We design, develop, manufacture and market smart EVs that are seamlessly integrated with advanced Internet, AI and autonomous driving technologies. We are committed to in-house R&D and intelligent manufacturing to create a better mobility experience for our customers. We strive to transform smart electric vehicles with technology and data, shaping the mobility experience of the future.
+ 
+We are looking for machine learning intern with strong enthusiasm towards building LLMs or diffusion models.
+ 
+Our mission is to solve the autonomous driving problem. You will work with a team of machine learning researchers to build AI software systems, learn about deep learning algorithms, and use your technical skills to advance autonomous driving.
+ 
+Job Responsibilities: 
 
-The Team
+Research areas encompass a wide range of topics in the areas of Foundation Models, such as building LLM from scratch, RLHF, multi-model generative modeling, scalable end-to-end models for Autonomous Driving etc.
+Work with cross teams to deploy machine learning solutions to continuously improve SOTA performance for multiple perception tasks, e.g., object detection, segmentation, etc.
+Deliver pre-trained and finetuned models to achieve the most intelligent autonomous driving system in class.
+Work with massive image and video label/unlabeled dataset to build a robust and scalable data driven model.
+ 
+Minimum Skill Requirements:
 
-Celonis AI Group (CeloAI) is dedicated to developing state-of-the-art AI/ML (and broadly intelligent) technologies for Celonis products (e.g., the Execution Management System / EMS) and empower enterprises and institutions to make intelligent business decisions and achieve operational excellence. Our dual mission focuses on both the immediate term goals of designing and implementing advanced AI/ML product features and solutions for our customers and the long term goals of establishing competitive advantages of Celonis for execution management.
+PhD or Master in computer science, electrical engineering, or other related fields.
+Experience in working with CNNs/RNNs and generative models such as LLMs, diffusion models.
+Programming fluently in Python with a deep understanding of software design, programming techniques, and algorithms.
+Master one of several mainstream machine learning development framework such as TensorFlow, PyTorch, MXNet.
+ 
+What do we provide:
 
-We are a global organization with presence in both Germany and the US. CeloAI US has its main presence in New York, NY but also remote presences across the US.
-
-The Role
-
-We are seeking motivated and talented machine learning interns to join our team. The internship offers an opportunity to work on state-of-the-art machine learning techniques, including but not limited to generative AI techniques, as well as real-world applications. The intern will work with experienced professionals to contribute to the innovative machine learning related techniques and products.
-
-As a machine learning intern, you are expected to conduct research and experiments on challenging machine learning problems that are closely related to Celonis products. You are expected to develop machine learning algorithms, models and systems for real-world applications. You may need to interact closely with other engineers to build scalable and high quality AI/ML features and solutions for our customers.
-
-The work may span the areas of generative AI, natural language processing, data mining, recommendation, knowledge base, business intelligence, and other AI technologies.
-
-The work you’ll do
-
-Design and develop scalable and high quality AI/ML algorithms, models and systems for Celonis products
-Initiate and lead research efforts towards solving real world problems using machine learning techniques, including understanding the application requirement, identifying potential machine learning algorithms, and coming up with research strategies.
-Conduct innovative research on topics in processing mining/deep learning/generative AI that can eventually be used in Celonis products 
-Document research findings and share knowledge with team members
-
-The Qualifications You Need
-
-Currently pursuing or has obtained a PhD degree in Computer Science or related fields
-Familiarity with state-of-the-art machine learning algorithms, especially deep learning techniques including generative AI.
-Proficiency in programming with Python and machine learning development tools/libraries.
-Ability to quickly identify research opportunities, select the appropriate approach for exploration, and drive research step by step with a clear vision and reliability.
-Self-motivated with a strong drive to excel.
-Strong communication and collaboration skills.
-Identify with the Celonis value of customer first, passionate about solving real world customer problems
-Passionate about developing scalable and efficient AI/ML solutions
-Passionate about building high quality AI/ML solutions with clear and repeatable evaluation mechanisms
-
-What Celonis can offer you:
-
-The unique opportunity to work with industry-leading process mining technology
-Investment in your personal growth and skill development (clear career paths, internal mobility opportunities, L&D platform, mentorships, and more)
-Great compensation and benefits packages (equity (restricted stock units), life insurance, time off, generous leave for new parents from day one, and more)
-Physical and mental well-being support (subsidized gym membership, access to counseling, virtual events on well-being topics, and more)
-A global and growing team of Celonauts from diverse backgrounds to learn from and work with
-An open-minded culture with innovative, autonomous teams
-Business Resource Groups to help you feel connected, valued and seen (Black@Celonis, Women@Celonis, Parents@Celonis, Pride@Celonis, Resilience@Celonis, and more)
-A clear set of company values that guide everything we do: Live for Customer Value, The Best Team Wins, We Own It, and Earth Is Our Future
-
-About Us
-
-Since 2011, Celonis has helped thousands of the world's largest and most valued companies deliver immediate cash impact, radically improve customer experience and reduce carbon emissions. Its Process Intelligence platform uses industry-leading process mining technology and AI to present companies with a living digital twin of their end-to-end processes. For the first time, everyone in an organisation has a common language about how the business works, visibility into where value is hidden and the ability to capture it. Celonis is headquartered in Munich (Germany) and New York (USA) and has more than 20 offices worldwide.
-
-Join us as we make processes work for people, companies and the planet.
-
-Celonis is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. Different makes us better.
-
-Accessibility and Candidate Notices
+A fun, supportive and engaging environment
+Opportunity to make significant impact on transportation revolution by the means of advancing autonomous driving
+Opportunity to work on cutting edge technologies with the top talent in the field
+Competitive compensation package
+Snacks, lunches, and fun activities
+ 
+We are an Equal Opportunity Employer. It is our policy to provide equal employment opportunities to all qualified persons without regard to race, age, color, sex, sexual orientation, religion, national origin, disability, veteran status or marital status or any other prescribed category set forth in federal or state regulations.
