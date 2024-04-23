@@ -9,11 +9,12 @@ foo@bar:easycv$ pip install -e .
 ```
 
 # Usage Example
+Users should have an OpenAI key to have access to ChatGPT API.
+Please copy your resume to the "files" folder, and copy the job description to "files/jd.txt". Users can use the example prompt "user_cv_prompt.txt" or customize their own.
+
 ```console
 foo@bar:easycv$ python easycv.py --resume files/resume.pdf --jd files/jd.txt --user files/user_cv_prompt.txt -m gpt-3.5-turbo
 ```
-Users will be asked to provide your OpenAI key.
-Users can modify the resume (pdf, txt, doc), job description (e.g. jd.txt), and user input instruction (e.g. user_cv_prompt.txt) to guide the cover letter writting.
 
 # Design
 The tool uses OpenAI ChatGPT as the LLM to generate a cover letter.
