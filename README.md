@@ -25,4 +25,5 @@ I use a two-phase RAG QA to save the related contents in the chat history which 
 # Features that are in development
 - The Google Chrome extension user interface
 - The REST API to call the backend "easycv" python script
+- A few web scraper scripts for popular job searching websites
 - Add an agent ask the user follow-up questions and use Google search tool
