@@ -16,6 +16,10 @@ Please copy your resume to the "files" folder, and copy the job description to "
 foo@bar:easycv$ python easycv.py --resume files/resume.pdf --jd files/jd.txt --user files/user_cv_prompt.txt -m gpt-3.5-turbo
 ```
 
+The prerequisites of installation are Python, pip, and Conda. If you find the installation failed because of the non-existent path of Conda, please install Miniconda or try to manually install those packages via pip.
+
+If you see an error "Error Code 429 - You exceeded your current quota.", please check your plan and billing details. You need to increase your rate limit through OpenAI API [page](https://platform.openai.com/docs/guides/rate-limits). Usually, 5 dollars is enough.
+
 # Design
 The tool uses OpenAI ChatGPT as the LLM to generate a cover letter.
 The difficulty in this project is: beyond a single RAG system, how to find the matching information between the job description and the resume of the user.
