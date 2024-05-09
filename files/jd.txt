@@ -1,30 +1,71 @@
-About the job
-XPeng Motors is one of China’s leading smart electric vehicle (“EV”) companies. We design, develop, manufacture and market smart EVs that are seamlessly integrated with advanced Internet, AI and autonomous driving technologies. We are committed to in-house R&D and intelligent manufacturing to create a better mobility experience for our customers. We strive to transform smart electric vehicles with technology and data, shaping the mobility experience of the future.
- 
-We are looking for machine learning intern with strong enthusiasm towards building LLMs or diffusion models.
- 
-Our mission is to solve the autonomous driving problem. You will work with a team of machine learning researchers to build AI software systems, learn about deep learning algorithms, and use your technical skills to advance autonomous driving.
- 
-Job Responsibilities: 
+Who You Are:
 
-Research areas encompass a wide range of topics in the areas of Foundation Models, such as building LLM from scratch, RLHF, multi-model generative modeling, scalable end-to-end models for Autonomous Driving etc.
-Work with cross teams to deploy machine learning solutions to continuously improve SOTA performance for multiple perception tasks, e.g., object detection, segmentation, etc.
-Deliver pre-trained and finetuned models to achieve the most intelligent autonomous driving system in class.
-Work with massive image and video label/unlabeled dataset to build a robust and scalable data driven model.
- 
-Minimum Skill Requirements:
+You are a talented, hands-on engineer who thrives in a fast-paced environment, is self-directed, a team player, and knows how to get things done. You are motivated by creating real-world benefits using AI and are excited to help advance our effort to create the best-performing open large language model. You will be a part of the core team of research engineers behind post-training and aligning the OLMo (Open Language Model) through fine-tuning, instruction-tuning, and RLHF, helping us build infrastructure for the next generation of large language model research. You will also help with data analysis and experimentation to direct the decisions we make and architectures we develop, both around modeling and data preparation. And, you are someone with experience working with open-source projects, deep knowledge of Python, and a strong understanding of modern deep learning and natural language processing.
 
-PhD or Master in computer science, electrical engineering, or other related fields.
-Experience in working with CNNs/RNNs and generative models such as LLMs, diffusion models.
-Programming fluently in Python with a deep understanding of software design, programming techniques, and algorithms.
-Master one of several mainstream machine learning development framework such as TensorFlow, PyTorch, MXNet.
- 
-What do we provide:
+Who We Are:
 
-A fun, supportive and engaging environment
-Opportunity to make significant impact on transportation revolution by the means of advancing autonomous driving
-Opportunity to work on cutting edge technologies with the top talent in the field
-Competitive compensation package
-Snacks, lunches, and fun activities
- 
-We are an Equal Opportunity Employer. It is our policy to provide equal employment opportunities to all qualified persons without regard to race, age, color, sex, sexual orientation, religion, national origin, disability, veteran status or marital status or any other prescribed category set forth in federal or state regulations.
+Open Language Model (OLMo) is the AI2 LLM framework designed to provide access to data, training code, models, and evaluation code necessary to advance AI through open research to empower academics and researchers to study the science of language models collectively. The goal is to share a high quality and open language model that will provide an avenue for people in the AI research community to work directly on language models for the first time. Following the launch of OLMo (Open Language Model), AI2 is now embarking on furthering research to provide scientific insights and solutions on how to substantially close the gap with the state-of-the-art in adapted models.
+
+Your Next Challenge:
+
+The essential functions include, but are not limited to the following:
+
+Building infrastructure to facilitate the next generation of LLM research.
+Optimizing training and inference for language models.
+Triaging between experiments and executing on the most impactful.
+Supporting and collaborating with an open-source community.
+Bridging the gap between cutting-edge research and a widely adopted product.
+Using software engineering best practices in a research environment.
+Releasing your contributions back to the broader community in the form of open source software, model releases, and additions to AI2’s public API and Open Research Corpus. 
+What You’ll Need:
+
+Knowledge of modern deep learning and natural language processing techniques.
+Strong software engineering skills, particularly around building performant systems and debugging.
+Experience with the complete model development cycle, including data set construction, training, tuning, evaluation, performance profiling, and monitoring. 
+Experience with Python and PyTorch, or Jax.
+Familiarity working with cloud compute resources (e.g. AWS) and containerization (e.g. Docker). 
+Bonus qualifications:
+
+Advanced degree in Data Science/CS/EE/Applied Mathematics/Statistics/ML/NLP or related fields.
+Contributions to open-source ML or research libraries (e.g. spaCy).
+Experience successfully operating models at scale in a production setting.
+Experience fine-tuning large models with tools like TRL or Open Instruct / methods like DPO, PPO, or supervised fine-tuning.
+Strong collaboration skills - our environment is small and collaborative, and we'd like you to thrive while working closely with others.
+Education:
+
+BS or MS in Computer Science, Statistics, Engineering, Applied Mathematics, or a related quantitative field.
+Physical Demands and Work Environment:
+
+The physical demands described here are representative of those that must be met by a team member to successfully perform the essential functions of this position. Reasonable accommodations may be made to enable individuals with disabilities to perform the functions.
+
+Must be able to remain in a stationary position for long periods of time. 
+The ability to communicate information and ideas so others will understand. Must be able to exchange accurate information in these situations. 
+The ability to observe details at close range.
+Can work under deadlines.
+A Little More About AI2:
+
+The Allen Institute for Artificial Intelligence is a non-profit research institute in Seattle founded by Paul Allen. The core mission of AI2 is to contribute to humanity through high-impact research in artificial intelligence. 
+
+In addition to AI2’s core mission, we also aim to contribute to humanity through our treatment of each member of the AI2 Team. Some highlights are:
+
+We are a learning organization – because everything AI2 does is ground-breaking, we are learning every day. Similarly, through weekly AI2 Academy lectures, a wide variety of world-class AI experts as guest speakers, and our commitment to your personal on-going education, AI2 is a place where you will have opportunities to continue learning alongside your coworkers. 
+We value diversity - We seek to hire, support, and promote people from all genders, ethnicities, and all levels of experience regardless of age. We particularly encourage applications from women, non-binary individuals, people of color, members of the LGBTQA+ community, and people with disabilities of any kind. 
+We value inclusion - We understand the value that people's individual experiences and perspectives can bring to an organization, and we are building a culture in which all voices are heard, respected and considered.
+We emphasize a healthy work/life balance – we believe our team members are happiest and most productive when their work/life balance is optimized. While we value powerful research results which drive our mission forward, we also value dinner with family, weekend time, and vacation time. We offer generous paid vacation and sick leave as well as family leave.
+We are collaborative and transparent – we consider ourselves a team, all moving with a common purpose. We are quick to cheer our successes, and even quicker to share and jointly problem solve our failures.
+We are in Seattle – and our office is on the water! We have mountains, we have lakes, we have four seasons, we bike to work, we have a vibrant theater scene, and we have so much else. We even have kayaks for you to paddle right outside our front door. We welcome interest from applicants from outside of the United States.
+We are friendly– chances are you will like every one of the 200+ (and growing) people who work here. We do. 
+AI2 is proud to be an Equal Opportunity employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. You may view the related Know Your Rights compliance poster and the Pay Transparency Nondiscrimination Provision by clicking on their corresponding links. 
+
+This employer participates in E-Verify and will provide the federal government with your Form I-9 information to confirm that you are authorized to work in the U.S. If E-Verify cannot confirm that you are authorized to work, this employer is required to give you written instructions and an opportunity to contact the Department of Homeland Security (DHS) or Social Security Administration (SSA) so you can begin to resolve the issue before the employer can take any action against you, including terminating your employment. Employers can only use E-Verify once you have accepted a job offer and completed the Form I-9.
+
+We are committed to providing reasonable accommodations to employees and applicants with disabilities to the full extent required by the Americans with Disabilities Act (ADA). If you feel you need a reasonable accommodation pursuant to the ADA, you are encouraged to contact us at recruiting@allenai.org 
+
+Benefits: 
+
+Team members and their families are covered by medical, dental, vision, basic life insurance, basic accidental death and dismemberment insurance, short-term disability, long-term disability, and an employee assistance program. 
+Team members are able to enroll in our voluntary life insurance program, our voluntary accidental death and dismemberment program, our health savings account plan, our healthcare reimbursement arrangement plan, and our health care and dependent care flexible spending account plans. 
+Team members are able to enroll in our company’s 401k plan. 
+Team members will receive $125 per month to assist with commuting or internet expenses and will also receive $200 per month for fitness and wellbeing expenses.
+Team members will also receive up to ten sick days per year, up to seven personal days per year, up to 20 vacation days per year and twelve paid holidays throughout the calendar year.
+Team members will be able to receive annual bonuses and can participate in the long-term incentive plan.

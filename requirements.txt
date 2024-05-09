@@ -8,7 +8,7 @@ langchain-openai==0.1.1
 langchain-text-splitters==0.0.1
 langchainhub==0.1.15
 langserve==0.0.51
-llvmlite @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_18ie6wlojg/croot/llvmlite_1706910715685/work
+llvmlite
 openai==1.14.2
 openpyxl==3.0.10
 opentelemetry-api==1.23.0
@@ -21,6 +21,7 @@ opentelemetry-proto==1.23.0
 opentelemetry-sdk==1.23.0
 opentelemetry-semantic-conventions==0.44b0
 opentelemetry-util-http==0.44b0
-prompt-toolkit @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_4d8kk9w3ed/croot/prompt-toolkit_1704404354789/work
-pypdf @ file:///home/conda/feedstock_root/build_artifacts/pypdf-split_1703606559713/work/dist
+prompt-toolkit
+prompt-toolkit_1704404354789/work
+pypdf
 python-magic==0.4.27

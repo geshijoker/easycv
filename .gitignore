@@ -162,5 +162,5 @@ cython_debug/
 Custom
 .DS_Store
 example.txt
-files/openaikey.txt
 cover_letter*.txt
+.envrc
